@@ -1,0 +1,10 @@
+John,Doe,true
+Jane,Smith,false
+Michael,Johnson,true
+Emily,Williams,false
+Daniel,Brown,true
+Jessica,Davis,false
+David,Wilson,true
+Sarah,Moore,false
+Christopher,Taylor,true
+Amanda,Anderson,false

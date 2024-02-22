@@ -1,0 +1,15 @@
+Ford,Mustang,2018,ABC123,55.99,25000,Sports,true
+Chevrolet,Camaro,2019,ZXY987,60.00,15000,Sports,true
+Toyota,Corolla,2017,JHK543,35.50,30000,Sedan,true
+Honda,Civic,2018,GFD756,40.00,22000,Sedan,true
+Tesla,Model 3,2020,TESLA1,85.00,12000,Electric,true
+BMW,3 Series,2019,BMW320,70.00,18000,Luxury,true
+Audi,A4,2018,AUDI77,75.00,20000,Luxury,true
+Ford,F150,2016,FOR150,65.00,33000,Truck,true
+Dodge,Ram 1500,2017,DOD500,60.00,35000,Truck,true
+Nissan,Altima,2018,NSN456,45.00,28000,Sedan,true
+Volkswagen,Golf,2019,VWGOLF,50.00,16000,Hatchback,true
+Hyundai,Elantra,2017,HYN321,42.00,23000,Sedan,true
+Kia,Soul,2018,KIA123,48.00,19000,Hatchback,true
+Mazda,CX-5,2019,MAZ555,55.00,21000,SUV,true
+Jeep,Wrangler,2020,JEEP77,80.00,25000,SUV,true

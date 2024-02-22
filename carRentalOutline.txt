@@ -1,0 +1,86 @@
+Car Rental System
+
+Car
+    size_t carID;
+    std::string make;
+    std::string model;
+    size_t year;
+    std::string licensePlate;
+    float pricePerDay;
+    long int mileage;
+    std::string category;
+    bool isAvailable;
+
+    void displayCar
+    void displayCarsForRent
+
+CarManager
+    vector carlist
+    
+    loadCarsFromFile
+    getCarByID
+    displayCar
+    displayAllCars
+    displayAvailableCars
+
+Customer
+
+    size_t customerID;
+    std::string firstName;
+    std::string lastName;
+    bool isMember;
+
+    displayCustomer
+  
+CusomterManager
+
+    vector cusotmerLIst
+    nextID
+
+    loadCustomersFromFile
+    createCustomer
+    getCustomerbyID
+    displayAllCustomers
+
+Rental
+
+    Customer *customerPtr;
+    Car *carPtr;
+    size_t rentalID;
+    size_t rentalDays;
+    bool isActive;
+    float totalCost;
+
+    print rental
+
+RentalManager
+
+    std::vector<Rental> rentals;
+    std::vector<Rental> history;
+    float totalAmount = 0.0;
+
+    createNewRental
+    ReturnRental
+    displayActiveRentals
+    displayRentalHistory
+
+main
+
+rent a car
+return a car
+create cutomer 
+add car
+
+displayCarsAvailable
+displayActiveRentals
+rental history
+
+cusotmerList
+car list
+full car list
+
+
+
+
+
+
